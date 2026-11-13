@@ -1,5 +1,9 @@
 # Campus Cafe Inventory
 
+## GitHub repository
+
+https://github.com/praveen-210/Airtribe
+
 A console-based Java program for adding, listing, valuing, restocking, and duplicating cafe products. It uses only the standard Java library (`java.util.Scanner`).
 
 ## Run the programs
